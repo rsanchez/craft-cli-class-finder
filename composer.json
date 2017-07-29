@@ -1,0 +1,13 @@
+{
+    "name": "craft-cli/class-finder",
+    "description": "Find classes in a folder for Craft CLI",
+    "authors": [
+        {
+            "name": "Rob Sanchez",
+            "email": "info@robsanchez.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "CraftCli\\ClassFinder\\": "src/" }
+    }
+}
